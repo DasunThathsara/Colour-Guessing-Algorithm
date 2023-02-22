@@ -47,7 +47,7 @@ def get_colour():
 
     new_week_history = history.copy()
 
-    print(new_week_history[:day], list(days[day].keys())[0], list(days[day].keys())[1])
+    # print(new_week_history[:day], list(days[day].keys())[0], list(days[day].keys())[1])
 
     # Check last week colour and guess the colour
     try:

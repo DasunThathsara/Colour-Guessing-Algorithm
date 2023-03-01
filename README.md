@@ -26,3 +26,10 @@
 
 <br /><hr />
 <p><b>*This program was under the development process. Therefore, please ignore the problems. And this is my dump values. Its also development process</b></p>
+
+<br />
+<p>
+<a href="https://github.com/UltiRequiem/python-projects-for-intermediates/blob/main/LICENSE">
+  <img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg">
+ </a
+</p>

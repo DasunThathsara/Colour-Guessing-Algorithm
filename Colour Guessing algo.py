@@ -50,6 +50,8 @@ def get_colour():
     # print(new_week_history[:day], list(days[day].keys())[0], list(days[day].keys())[1])
 
     # Check last week colour and guess the colour
+
+    print(day, days[day], history[day], new_week_history[:day])
     try:
         if list(days[day].keys())[0] == history[day] or len(days[day]) != 1 or list(days[day].keys())[0] in new_week_history[:day]:
             if list(days[day].keys())[1] not in new_week_history[:day]:

@@ -27,13 +27,26 @@
 <br /><hr />
 <p><b>*This program was under the development process. Therefore, please ignore the problems. And this is my dump values. Its also development process</b></p>
 
-<br />
-<p>
-<a href="https://github.com/UltiRequiem/python-projects-for-intermediates/blob/main/LICENSE">
-  <img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg">
- </a
- 
- <a href="https://hits.sh/github.com/DasunThathsara/Simple-Chat-Bot/">
-  <img alt="Hits" src="https://hits.sh/github.com/DasunThathsara/Colour-Guessing-Algorithm.svg?label=Views"/>
- </a>
-</p>
+
+<hr />
+  <p align="center">
+    <a href="https://github.com/UltiRequiem/python-projects-for-intermediates/blob/main/LICENSE">
+      <img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg">
+    </a
+    &nbsp;
+    <a href="https://hits.sh/github.com/DasunThathsara/Colour-Guessing-Algorithm/">
+      <img alt="Hits" src="https://hits.sh/github.com/DasunThathsara/Colour-Guessing-Algorithm.svg?label=Views"/>
+    </a>
+    <a href="https://github.com/DasunThathsara/Colour-Guessing-Algorithm/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/DasunThathsara/Colour-Guessing-Algorithm/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/DasunThathsara/Colour-Guessing-Algorithm" />
+    </a>
+    <a href="https://github.com/DasunThathsara/Colour-Guessing-Algorithm/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/DasunThathsara/Colour-Guessing-Algorithm?color=0088ff" />
+    </a>
+    <a href="https://github.com/DasunThathsara/Colour-Guessing-Algorithm/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/DasunThathsara/Colour-Guessing-Algorithm?color=0088ff" />
+    </a>
+  </p>
